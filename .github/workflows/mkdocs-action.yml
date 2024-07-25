@@ -30,9 +30,3 @@ jobs:
               mkdocs-material \
               mkdocs  # you will have to add additional packages if you pip installed any extra features
       - run: mkdocs gh-deploy --force  # make mkdocs deploy even if there already exists content on the gh-pages branch
-Previous
-2. Writing, testing, linting and formatting code
-Next
-4. Packaging, releases and sharing your code
-By University of Leeds Research Computing Team, Copyright © 2024
-Made with Material for MkDocs
